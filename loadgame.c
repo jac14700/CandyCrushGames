@@ -93,8 +93,6 @@ if (RorC==0)
 
 }
 
-
-
 if(RorC==1)
 {
 //===================================    亂數產生  ============================
@@ -116,41 +114,25 @@ if(RorC==1)
             fiveBy[count1][count2]=t1;
 
         }
-
     }
-
-
-
  }
 //====================  按 'x' 跳出迴路  =================
    int k=  setjmp(buf);
    if(k==0)
 
     {
-
-    print_array(*fiveBy,-1);
-
-
+        print_array(*fiveBy,-1);
     }
 
     else{
 
-
-
-
                 char S1[]="\n\nGame End\n\n";
-
-
-
                 for (t=0;t<10;t++,q++)
-
-                {           SetColor(q);
-                            if(q>14)q=q-6;
-
-                            Sleep(250);
-
-                            printf("%c",S1[t]);
-
+                {
+                     SetColor(q);
+                     if(q>14)q=q-6;
+                     Sleep(250);
+                     printf("%c",S1[t]);
                 }
                 SetColor(7);
                 music2();
@@ -158,10 +140,10 @@ if(RorC==1)
 //存檔________________________________________________________________________
 
    struct clientData client ;
-       client.acctNum=0;
-       client.Score=0;
-       memset(client.MAT, 0, sizeof(client.MAT));
-       memset( client.time, '+', strlen(client.time) );
+   client.acctNum=0;
+   client.Score=0;
+   memset(client.MAT, 0, sizeof(client.MAT));
+   memset( client.time, '+', strlen(client.time) );
 
     fseek( load, ( accountNum - 1 ) * sizeof( struct clientData ),SEEK_SET );
     fread( &client, sizeof( struct clientData ), 1, load );
@@ -171,11 +153,8 @@ if(RorC==1)
 
         for(e2=0;e2<MAX;e2++)
         {
-
-        client.MAT[5*e1+e2]=fiveBy[e1][e2];
-
+          client.MAT[5*e1+e2]=fiveBy[e1][e2];
         }
-
     }
 
     client.Score=SCORE;
