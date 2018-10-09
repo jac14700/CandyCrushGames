@@ -52,21 +52,10 @@ if (kbhit())
     printf("\n\n");
 
 /////////////////////////
-
     if(UpDownRL=='x')
     longjmp(buf,2);
-
-
 //////////////////////////
-
-
-
-
     s_witch(Parray,x1+48,y1+48,UpDownRL);
-
-
-
-
 
 }
 
