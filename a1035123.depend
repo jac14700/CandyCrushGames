@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1479574802 source:e:\class\candy\a1035123\main.c
+	<struct.h>
+	<HEADER.h>
+	"unistd.h"
+
+1479556780 source:e:\class\candy\a1035123\exchange.c
+	<struct.h>
+	<HEADER.h>
+
+1479572027 source:e:\class\candy\a1035123\smile.c
+	<struct.h>
+	<HEADER.h>
+
+1479572027 source:e:\class\candy\a1035123\s_witch.c
+	<struct.h>
+	<HEADER.h>
+
+1479573257 source:e:\class\candy\a1035123\print_array.c
+	<struct.h>
+	<HEADER.h>
+
+1479563187 source:e:\class\candy\a1035123\swap.c
+	<struct.h>
+	<HEADER.h>
+
+1479572744 source:e:\class\candy\a1035123\score.c
+	<struct.h>
+	<HEADER.h>
+
+1479574945 source:e:\class\candy\a1035123\enterchoice.c
+	<struct.h>
+	<HEADER.h>
+
+1479067692 source:e:\class\candy\a1035123\newacc.c
+	<struct.h>
+	<HEADER.h>
+
+1479055980 source:e:\class\candy\a1035123\start game.c
+	<struct.h>
+	<HEADER.h>
+
+1479575161 source:e:\class\candy\a1035123\loadgame.c
+	<struct.h>
+	<HEADER.h>
+
+1479225342 source:e:\class\candy\a1035123\update.c
+	<struct.h>
+	<HEADER.h>
+
+1479067692 source:e:\class\candy\a1035123\deleterec.c
+	<struct.h>
+	<HEADER.h>
+
+1479067736 source:e:\class\candy\a1035123\madetext.c
+	<struct.h>
+	<HEADER.h>
+
+1479572618 source:e:\class\candy\a1035123\deleterecord.c
+	<struct.h>
+	<HEADER.h>
+
+1479575047 source:e:\class\candy\a1035123\newrecord.c
+	<struct.h>
+	<HEADER.h>
+
+1479574339 source:e:\class\candy\a1035123\textfile.c
+	<struct.h>
+	<HEADER.h>
+
+1479572744 source:e:\class\candy\a1035123\updaterecord.c
+	<struct.h>
+	<HEADER.h>
+
+1479296400 source:e:\class\candy\a1035123\music1.c
+	<struct.h>
+	<HEADER.h>
+
+1479574682 source:e:\class\candy\a1035123\music2.c
+	<struct.h>
+	<HEADER.h>
+
+1479571921 source:e:\class\candy\a1035123\setcolor.c
+	<windows.h>
+
+1479572618 source:e:\before\class\candy\a1035123\deleterecord.c
+	<struct.h>
+	<HEADER.h>
+
+1479574945 source:e:\before\class\candy\a1035123\enterchoice.c
+	<struct.h>
+	<HEADER.h>
+
+1479575161 source:e:\before\class\candy\a1035123\loadgame.c
+	<struct.h>
+	<HEADER.h>
+
+1479574802 source:e:\before\class\candy\a1035123\main.c
+	<struct.h>
+	<HEADER.h>
+	"unistd.h"
+
+1479296400 source:e:\before\class\candy\a1035123\music1.c
+	<struct.h>
+	<HEADER.h>
+
+1479574682 source:e:\before\class\candy\a1035123\music2.c
+	<struct.h>
+	<HEADER.h>
+
+1479575047 source:e:\before\class\candy\a1035123\newrecord.c
+	<struct.h>
+	<HEADER.h>
+
+1479573257 source:e:\before\class\candy\a1035123\print_array.c
+	<struct.h>
+	<HEADER.h>
+
+1479572027 source:e:\before\class\candy\a1035123\s_witch.c
+	<struct.h>
+	<HEADER.h>
+
+1479572744 source:e:\before\class\candy\a1035123\score.c
+	<struct.h>
+	<HEADER.h>
+
+1479571921 source:e:\before\class\candy\a1035123\setcolor.c
+	<windows.h>
+
+1479572027 source:e:\before\class\candy\a1035123\smile.c
+	<struct.h>
+	<HEADER.h>
+
+1479563187 source:e:\before\class\candy\a1035123\swap.c
+	<struct.h>
+	<HEADER.h>
+
+1479574339 source:e:\before\class\candy\a1035123\textfile.c
+	<struct.h>
+	<HEADER.h>
+
+1479572744 source:e:\before\class\candy\a1035123\updaterecord.c
+	<struct.h>
+	<HEADER.h>
+

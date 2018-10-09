@@ -1,0 +1,12 @@
+Acct  Name            Score      Time      
+1     jac             117        Mon Sep 24 14:45:05 2018
+
+2     JAC             20         Mon Sep 24 14:37:30 2018
+
+3     JACKSON         10         Sun Nov 20 00:56:56 2016
+
+4     JACK            0                    
+6     1111            0                    
+8     Best            60         Mon Sep 24 14:27:37 2018
+
+3                     0                    
